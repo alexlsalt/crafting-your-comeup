@@ -243,10 +243,18 @@ footer a:hover {
   color: #000;
 }
 
+.footer_terms {
+  padding: 0.5rem;
+}
+
+.footer_terms a {
+  text-decoration: none;
+  color: #fff;
+}
 
 .footer_terms span {
   opacity: 0.6;
-  margin-top: 1.5rem;
+  font-size: 1rem;
 }
 
 .terms {
