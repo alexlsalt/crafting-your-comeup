@@ -198,6 +198,7 @@ footer {
 
 .sparkles_list {
   list-style: none;
+  padding-right: 1.5rem;
 }
 
 .sparkles_list li {
