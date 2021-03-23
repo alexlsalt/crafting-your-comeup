@@ -66,6 +66,28 @@ span {
   font-size: 1.5rem;
 }
 
+.button-section {
+  width: 25rem;
+  margin: 0 auto;
+}
+
+.button-section a {
+  text-decoration: none;
+}
+
+.button-section h3 {
+  color: #26262c;
+  background-color: #feef34;
+  padding: 0.5rem;
+  border: 4px solid #feef34;
+  box-shadow: 10px 10px #c39c89;
+}
+
+.button-section h3:hover {
+  color: #feef34;
+  background-color: #26262C;
+}
+
 .background_banner {
   width: 90%;
 }
